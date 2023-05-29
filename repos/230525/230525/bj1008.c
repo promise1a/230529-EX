@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(void)
+{
+	int a, b;
+	scanf("%d %d", &a, &b);
+
+	int res = (double)a / b;
+	printf("%d/%d", a, b);
+
+}
