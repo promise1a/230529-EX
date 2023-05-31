@@ -1,0 +1,23 @@
+
+int main(void) {
+	int answer[3] = { 8,4,3 },
+		input[3],
+		correct = 0;
+	int i, j;
+	
+	printf("정답과 비교할 정수 3개를 입력해주세요. \n");
+	for (i = 0; i < 3; i++) scanf(" %d", &input[i]);
+
+	for (i = 0; i < 3; i++) {
+		
+		for (j = 0; j < 3; j++) {
+			if (answer[j] == input[i]) {
+				correct += 1;
+				break;
+			}
+		}
+	}
+
+	printf("입력하신 정수 %d개 중 정답은 %d개입니다.", 3, correct);
+
+}

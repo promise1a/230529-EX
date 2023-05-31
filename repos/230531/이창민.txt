@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main() {
+	int arr[ ] = { 8,4,6 };
+	int num[3];
+	int score = 0;
+	int i;
+	for (i = 0; i < 3; i++)
+		scanf("%d", &num[i]);
+	printf("숫자 %d개를 입력하셨습니다.\n",i);
+	for (i = 0; i < 3; i++) {
+		for (int m = 0; m < 3; m++) {
+			if (arr[i] == num[m]) {
+				score++;
+			}
+		}
+	}
+	printf("%d개 맞췄습니다.\n", score);
+}
