@@ -1,5 +1,2 @@
-﻿  9-2.c
-C:\Users\KB\Desktop\230529\repos\230531\230531\9-2.c(26,25): warning C4047: '==': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
-C:\Users\KB\Desktop\230529\repos\230531\230531\9-2.c(34,25): warning C4047: '==': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
-C:\Users\KB\Desktop\230529\repos\230531\230531\9-2.c(42,25): warning C4047: '==': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+﻿  9-3.c
   230531.vcxproj -> C:\Users\KB\Desktop\230529\repos\230531\x64\Debug\230531.exe

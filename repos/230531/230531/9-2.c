@@ -45,6 +45,8 @@ for (int i = 0; i < 3; i++)
 		count++;
 	}
 }
+// for 로 j 선언해서 더 줄일 수
+
 printf("%d개의 정수를 맞히셨습니다.\n", count);
 
 }
