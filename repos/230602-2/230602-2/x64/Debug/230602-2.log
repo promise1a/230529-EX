@@ -1,2 +1,6 @@
-﻿  1.c
+﻿  bj1.c
+C:\Users\KB\Desktop\230529\repos\230602-2\230602-2\bj1.c(6,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\KB\Desktop\230529\repos\230602-2\230602-2\bj1.c(7,9): warning C4129: '!': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\KB\Desktop\230529\repos\230602-2\230602-2\bj1.c(7,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\KB\Desktop\230529\repos\230602-2\230602-2\bj1.c(7,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
   230602-2.vcxproj -> C:\Users\KB\Desktop\230529\repos\230602-2\x64\Debug\230602-2.exe
